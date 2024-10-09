@@ -1,4 +1,4 @@
-Forked from: []{https://github.com/yujiangpu20/PEL4VAD}
+Forked from: https://github.com/yujiangpu20/PEL4VAD
 
 # Learning Prompt-Enhanced Context features for Weakly-Supervised Video Anomaly Detection
 **Authors**: Yujiang Pu, Xiaoyu Wu, Shengjin Wang
